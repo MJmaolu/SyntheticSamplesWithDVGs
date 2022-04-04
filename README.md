@@ -14,7 +14,7 @@ The type of defective is more clearly defined in the 'DVG_type' column and the r
 
 ## Simulated fastq files
 
-There are in total 24 fastq samples, 12 generated on SARS-CoV-2 genome and the other 12 in Turnip Mosaic Virus. The ratio of the DVG population in the sample is 0.6 and the 0.4 restant is for the full genome virus.
+There are in total 24 fastq samples, 12 generated on SARS-CoV-2 genome and the other 12 in Turnip Mosaic Virus. The ratio of the DVG population in the sample is 0.6 and the remaining 0.4 is composed of the reference virus.
 
 The exact composition is defined in the correspondent composition files and the fastqs are avalaible at [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6411689.svg)](https://doi.org/10.5281/zenodo.6411689).
 
