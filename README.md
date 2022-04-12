@@ -20,4 +20,16 @@ The exact composition is defined in the correspondent composition files and the 
 
 The simulated reads where generated using Wgsim (short read simulator) <https://github.com/lh3/wgsim> with the error/mutation parameters set to zero and a length read of 100 nts. The library sizes are: 100 K, 500 K, 1 M, 2 M, 3 M, 4 M, 5 M, 6 M, 7 M, 8 M, 9 M and 10 M reads.
 
+---
+### Contact
 
+María José Olmo-Uceda - mariajose.olmo@csic.es
+
+PhD student
+
+*EvolSysVir Group*, I<sup>2</sup>SysBio (CSIC-UV) 
+
+---
+Project Link: [https://github.com/MJmaolu/DVGfinder](https://github.com/MJmaolu/DVGfinder)
+
+Page Link: [https://mjmaolu.github.io/DVGfinder/](https://mjmaolu.github.io/DVGfinder/)
