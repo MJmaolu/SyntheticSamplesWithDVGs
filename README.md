@@ -20,6 +20,12 @@ The exact composition is defined in the correspondent composition files and the 
 
 The simulated reads where generated using Wgsim (short read simulator) <https://github.com/lh3/wgsim> with the error/mutation parameters set to zero and a length read of 100 nts. The library sizes are: 100 K, 500 K, 1 M, 2 M, 3 M, 4 M, 5 M, 6 M, 7 M, 8 M, 9 M and 10 M reads.
 
+# Evaluation of the synthetic datasets
+
+DVGfinder was executed in all the samples. The results obtained by each program (ViReMa-a and DI-tector) and by each run mode (Metasearch, Consensus and Filtered) were separately assesed. The results of the evaluation for each genome (SARS-CoV-2 or TuMV based), each program/mode and each depth (from 100K to 10M reads) are available in the [evaluation directory](/evaluations).
+
+In a first evaluation we labeled as TP the events detected which junction coordinates matched exactly with the ones introduced in the synthetic datasets. This label i
+
 ---
 ### Contact
 
