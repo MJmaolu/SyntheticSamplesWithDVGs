@@ -1,7 +1,25 @@
-# SyntheticSamplesWithDVGs
+# Synthetic Samples With DVGs
 
 Collection of simulated fastq samples for the evaluation of the program DVGfinder. The code of the program is in https://github.com/MJmaolu/DVGfinder.
 
+<!-- TABLE OF CONTENTS -->
+<details open="open">
+  <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
+  <ol>
+    <li><a href="#synthetic-samples">Synthetic samples</a>
+      <li><a href="#composition-files">Composition filest</a></li>
+      <li><a href="#simulated-fastq-files">Simulated fastq files</a></li>
+    </li>
+    <li><a href="#evaluation-of-the-synthetic-datasets">Evaluation of the synthetic datasets</a>
+      <li><a href="criteria-to-label-as-tp">Criteria to label as TP</a></li>
+    </li>   
+    <li><a href="#sars-cov-2-datasets">SARS-CoV-2 datasets</a></li>
+    <li><a href="#reference">Reference</a></li>
+    <li><a href="#contact">Contact</a></li>
+  </ol>
+</details>
+
+# Synthetic samples
 
 ## Composition files
 
