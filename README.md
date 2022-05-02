@@ -44,7 +44,7 @@ DVGfinder was executed in all the samples. The results obtained by each program 
 
 ## Criteria to label as TP
 
-1. In a first evaluation we labeled as TP the events detected which junction coordinates matched exactly with the ones introduced in the synthetic datasets (considering the swapp of the coordinates too). This label is represented as 'TP_exact' in the tables. 
+1. In a first evaluation we labeled as TP the events detected whose junction coordinates exactly matched  those introduced in the synthetic datasets (considering also the swap of the coordinates). This label is represented as 'TP_exact' in the tables. 
 
 2. A second more in-deep evaluation was performed taking into account that some junctions can be assigned to close but not exact coordinates. For achive that a reconstruction of the sequence around the identified junction was generated (column 'seq_around_junction' and 'seq_around_junction_reverseCompl') and was checked if the sequence (directly or as reverse complementary) was part of the whole sequence of any of the 'real' DVGs composing the synthetic samples. This info is showed in columns 'inWholeSeq', 'inWholeSeq_asRevCompl' and 'in_idSeq', been annotated the cID_DI of the real DVG. The new label with that criteria is in 'TP_seq' column. This was the value used to calculate the evaluation metrics.
 
