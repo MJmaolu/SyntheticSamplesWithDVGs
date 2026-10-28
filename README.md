@@ -1,5 +1,8 @@
 # Synthetic Samples With DVGs
 
+<p align="center"> <a href="https://doi.org/10.5281/zenodo.23729814"><img src="https://zenodo.org/badge/476707040.svg" alt="DOI"></a>
+</p>
+
 Collection of simulated fastq samples for the evaluation of the program DVGfinder. The code of the program is in https://github.com/MJmaolu/DVGfinder.
 
 <!-- TABLE OF CONTENTS -->
